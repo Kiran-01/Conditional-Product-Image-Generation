@@ -1,1 +1,1 @@
-# Conditional-ProductImage-Generation
+# Conditional-Product-Image-Generation
